@@ -35,7 +35,6 @@ My research interest includes reinforcement learning, robotics and vision. I am 
 # Internships
 - *2023.02 - now*, ECE UC San Diego, advisor: Xiaolong Wang.
 - *2022.06 - 2023.03*, IIIS Tsinghua University, advisor: Yi Wu.
-- *2021.06 - 2021.08*, Huawei 2012 Laboratory Central Software Institute.
 
 # Skills
 - Language: Chinese (Native), English (Fluent)
