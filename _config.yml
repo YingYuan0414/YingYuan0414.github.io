@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ying Yuan (袁樱)"
-description              : "Homepage"
+description              : "Undergrad student in Tsinghua University. Focusing on reinforcement learning and robotics."
 repository               : "YingYuan0414/YingYuan0414.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ying Yuan (袁樱)"
   avatar           : "images/personal_image.png"
-  bio              : "Undergrad student in Tsinghua University. Focusing on reinforcement learning and robotics."
-  location         : "Beijing, China"
+  bio              : "Computer Science, Tsinghua University"
+  location         : "San Diego, U.S."
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
