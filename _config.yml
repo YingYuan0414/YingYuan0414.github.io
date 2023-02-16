@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ying Yuan (袁樱)"
-  avatar           : "images/personal_image.jpeg"
+  avatar           : "images/personal_image.png"
   bio              : "Computer Science, Tsinghua University"
   location         : "San Diego, U.S."
   employer         :
