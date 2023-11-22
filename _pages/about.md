@@ -27,10 +27,11 @@ My research interest includes reinforcement learning, robotics and vision. I am 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS WTP 2023</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=5>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</font> \\
+<font size=4>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</font> \\
 **Ying Yuan**\*, Haichuan Che\*, Yuzhe Qin\*, Binghao Huang, Zhao-Heng Yin, Kang-Won Lee, Yi Wu, Soo-Chul Lim, Xiaolong Wang
 
 *NeurIPS Workshop WTP 2023 Poster.*
+
 **[PDF](https://yingyuan0414.github.io/visuotactile/static/ICRA24_3333_MS.pdf)** \| **[Webpage](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)**
 </div>
 </div>
@@ -38,10 +39,11 @@ My research interest includes reinforcement learning, robotics and vision. I am 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR RRL 2023</div><img src='images/rst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=5>Self-Generating Data for Goal-Conditioned Compositional Problems</font> \\
+<font size=4>Self-Generating Data for Goal-Conditioned Compositional Problems</font> \\
 Ying Yuan, Yunfei Li, Yi Wu
 
 *ICLR Workshop RRL 2023 Poster.*
+
 **[PDF](https://openreview.net/pdf?id=O3EdtXuBal)**
 </div>
 </div>
