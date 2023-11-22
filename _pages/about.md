@@ -24,13 +24,15 @@ I am recipient of **[Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html)
 My research interest includes reinforcement learning, robotics and vision. I am now working as a student intern in Professor [Xiaolong Wang](https://xiaolonw.github.io/)'s group at [UC San Diego](https://ucsd.edu/). I work on dexterous manipulation, reinforcement learning and robotics here. I was also in Professor [Yi Wu](https://jxwuyi.weebly.com/)'s group at IIIS, working on an RL project.
 
 # Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[NeurIPS WTP 2023](https://www.touchprocessing.org/2023/)</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS WTP 2023</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing \\
-**Ying Yuan***, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, Kang-Won Lee, Yi Wu, Soo-Chul Lim, Xiaolong Wang
+**Ying Yuan**\*, Haichuan Che\*, Yuzhe Qin\*, Binghao Huang, Zhao-Heng Yin, Kang-Won Lee, Yi Wu, Soo-Chul Lim, Xiaolong Wang
 
-**PDF** \| **Webpage[https://yingyuan0414.github.io/visuotactile/]**
+**[PDF](https://yingyuan0414.github.io/visuotactile/static/ICRA24_3333_MS.pdf)** \| **[Webpage](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)**
+</div>
+</div>
 
 # Honors and Awards
 - *2023* Yao Award (Recognition Prize).
