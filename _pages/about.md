@@ -23,7 +23,7 @@ I am recipient of **[Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html)
 
 My research interest includes reinforcement learning, robotics, and vision. I am now working as a student intern in Professor [Xiaolong Wang](https://xiaolonw.github.io/)'s group at [UC San Diego](https://ucsd.edu/). I work on dexterous manipulation, reinforcement learning, and robotics here. I was also in Professor [Yi Wu](https://jxwuyi.weebly.com/)'s group at IIIS, working on an RL project.
 
-[CV](/docs/Resume_YingYuan.pdf)
+<span class='anchor' id='publications'></span>
 
 # Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS WTP 2023</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
@@ -52,18 +52,26 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 </div>
 </div>
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # Honors and Awards
 - *2023* Yao Award (Recognition Prize).
 - *2022* School scholarship on academic performance and social work. 
 - *2021* Tang Junyuan Scholarship and School-level Scholarship. 
 
+<span class='anchor' id='educations'></span>
+
 # Educations
 - *2020.09 - now*, Undergraduate, Tsinghua University, Beijing. 
 - *2017.09 - 2020.06*, High School Affiliated to Fudan University, Shanghai. 
 
+<span class='anchor' id='internships'></span>
+
 # Internships
 - *2023.02 - now*, ECE UC San Diego, advisor: Xiaolong Wang.
 - *2022.06 - 2023.03*, IIIS Tsinghua University, advisor: Yi Wu.
+
+<span class='anchor' id='skills'></span>
 
 # Skills
 - Language: Chinese (Native), English (Fluent)
