@@ -2,15 +2,18 @@
 main:
   - title: "About Me"
     url: "/"
-    
-  # - title: "Honors and Awards"
-    # url: "/#-honors-and-awards"
 
-  # - title: "Educations"
-    # url: "/#-educations"
-
-  # - title: "Internships"
-    # url: "/#-internships"
+  - title: "Publications"
+    url: "/#-publications"
     
-  # - title: "Skills"
-    # url: "/#-skills"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
+    
+  - title: "Skills"
+    url: "/#-skills"
