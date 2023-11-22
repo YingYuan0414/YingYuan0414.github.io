@@ -3,6 +3,8 @@ main:
   - title: "About Me"
     url: "/"
 
+  - title: "CV"
+    URL: "/docs/Resume_YingYuan.pdf"
   # - title: "Honors and Awards"
     # url: "/#-honors-and-awards"
 
