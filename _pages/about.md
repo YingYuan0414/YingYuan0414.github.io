@@ -32,11 +32,13 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 <font size=4>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</font> \\
 **Ying Yuan**\*, Haichuan Che\*, Yuzhe Qin\*, Binghao Huang, Zhao-Heng Yin, Kang-Won Lee, Yi Wu, Soo-Chul Lim, Xiaolong Wang
 
+*arXiv preprint arXiv:2312.01853, 2023.*
+
 *Submitted to ICRA 2024.*
 
 *NeurIPS Workshop WTP 2023 Poster.*
 
-**[PDF](https://yingyuan0414.github.io/visuotactile/static/ICRA24_3333_MS.pdf)** \| **[Webpage](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)**
+**[arXiv](https://arxiv.org/abs/2312.01853)** \| **[PDF](https://arxiv.org/pdf/2312.01853.pdf)** \| **[Webpage](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)**
 </div>
 </div>
 
