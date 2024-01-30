@@ -25,8 +25,8 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 
 <span class='anchor' id='publications'></span>
 
-# News
-<font size=4>1/29/2024: One paper got accepted by **ICRA 2024**! See you in Japan! </font>
+# 🔥 News
+*1/29/2024*: One paper got accepted by **ICRA 2024**! See you in Japan!🎉🎉
 
 # Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
