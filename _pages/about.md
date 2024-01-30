@@ -25,8 +25,11 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 
 <span class='anchor' id='publications'></span>
 
+# News
+<font size=4>1/29/2024: One paper got accepted by **ICRA 2024**! See you in Japan! </font>
+
 # Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS WTP 2023</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</font> \\
@@ -34,7 +37,7 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 
 *arXiv preprint arXiv:2312.01853, 2023.*
 
-*Submitted to ICRA 2024.*
+*ICRA 2024 Poster.*
 
 *NeurIPS Workshop WTP 2023 Poster.*
 
