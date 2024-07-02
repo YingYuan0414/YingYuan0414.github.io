@@ -21,15 +21,19 @@ I am an incoming Robotics PhD student at [CMU Robotics Institute](https://www.ri
 
 Previously, I obtained Bachelor of Engineering in Computer Science and Technology from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I spent my junior year as a research intern at [UC San Diego](https://ucsd.edu/) advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). I also worked with [Prof. Yi Wu](https://jxwuyi.weebly.com/) at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/).
 
-**Email** yingyua2\@andrew.cmu.edu
+**Email** yingyua2@andrew.cmu.edu
 
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
 *Jun 2024*: One paper got accepted by **IROS 2024**!
+
 *Jun 2024*: I graduated from Tsinghua University as an honored graduate.
+
 *May 2024*: I presented [Robot Synesthesia](https://yingyuan0414.github.io/visuotactile/) at ICRA 2024.
+
 *Jan 2024*: One paper got accepted by **ICRA 2024**! See you in Japan!🎉🎉
+
 *Sep 2023*: I received [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (Recognition Prize) from IIIS, Tsinghua University.
 
 # Publications
@@ -72,16 +76,4 @@ Previously, I obtained Bachelor of Engineering in Computer Science and Technolog
 - *2024 - present*, PhD in Robotics, School of Computer Science, Carnegie Mellon University. 
 - *2020 - 2024*, Bachelor of Engineering, Institute for Interdisciplinary Information Sciences, Tsinghua University. 
 
-%<span class='anchor' id='internships'></span>
-
-%# Internships
-%- *2023.02 - now*, ECE UC San Diego, advisor: Xiaolong Wang.
-%- *2022.06 - 2023.03*, IIIS Tsinghua University, advisor: Yi Wu.
-
-%<span class='anchor' id='skills'></span>
-
-%# Skills
-%- Language: Chinese (Native), English (Fluent)
-%- Programming languages: Python, C++, MATLAB, Verilog
-%- Libraries and tools: PyTorch, Tensorflow, Git, LaTeX, Kubernetes, CUDA, Docker
 Updated Jul 2024.
