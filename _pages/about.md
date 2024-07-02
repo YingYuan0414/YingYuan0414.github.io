@@ -17,16 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior-year undergraduate student of Computer Science and Technology at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **[Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)**, directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am an incoming Robotics PhD student at [CMU Robotics Institute](https://www.ri.cmu.edu/). I am broadly interested in robot learning, especially RL, imitation learning and their application in robotics. My goal is to develop algorithms for real-world challenges, such as robust and generalizable robot manipulation.
 
-I am recipient of **[Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (Recognition Prize)** and School-level Scholarships. My general GPA is 3.95/4.0, ranking 5/76.
+Previously, I obtained Bachelor of Engineering in Computer Science and Technology from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I spent my junior year as a research intern at [UC San Diego](https://ucsd.edu/) advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). I also worked with [Prof. Yi Wu](https://jxwuyi.weebly.com/) at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/).
 
-My research interest includes reinforcement learning, robotics, and vision. I am now working as a student intern in Professor [Xiaolong Wang](https://xiaolonw.github.io/)'s group at [UC San Diego](https://ucsd.edu/). I work on dexterous manipulation, reinforcement learning, and robotics here. I was also in Professor [Yi Wu](https://jxwuyi.weebly.com/)'s group at IIIS, working on an RL project.
+**Email** yingyua2\@andrew.cmu.edu
 
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
-*1/29/2024*: One paper got accepted by **ICRA 2024**! See you in Japan!🎉🎉
+*Jun 2024*: One paper got accepted by **IROS 2024**!
+*Jun 2024*: I graduated from Tsinghua University as an honored graduate.
+*May 2024*: I presented [Robot Synesthesia](https://yingyuan0414.github.io/visuotactile/) at ICRA 2024.
+*Jan 2024*: One paper got accepted by **ICRA 2024**! See you in Japan!🎉🎉
+*Sep 2023*: I received [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (Recognition Prize) from IIIS, Tsinghua University.
 
 # Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/robot_synesthesia.png' alt="sym" width="100%"></div></div>
@@ -35,13 +39,11 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 <font size=4>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</font> \\
 **Ying Yuan**\*, Haichuan Che\*, Yuzhe Qin\*, Binghao Huang, Zhao-Heng Yin, Kang-Won Lee, Yi Wu, Soo-Chul Lim, Xiaolong Wang
 
-*arXiv preprint arXiv:2312.01853, 2023.*
+*ICRA 2024.*
 
-*ICRA 2024 Poster.*
+*NeurIPS 2023 Workshop on Touch Processing.*
 
-*NeurIPS Workshop WTP 2023 Poster.*
-
-**[arXiv](https://arxiv.org/abs/2312.01853)** \| **[PDF](https://arxiv.org/pdf/2312.01853.pdf)** \| **[Webpage](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)**
+**[Paper](https://arxiv.org/pdf/2312.01853.pdf)** \| **[Website](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)** \| **[Twitter](https://x.com/QinYuzhe/status/1732108331869929841)**
 </div>
 </div>
 
@@ -51,9 +53,9 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 <font size=4>Self-Generating Data for Goal-Conditioned Compositional Problems</font> \\
 **Ying Yuan**, Yunfei Li, Yi Wu
 
-*ICLR Workshop RRL 2023 Poster.*
+*ICLR 2023 Reincarnating RL Workshop.*
 
-**[PDF](https://openreview.net/pdf?id=O3EdtXuBal)**
+**[Paper](https://openreview.net/pdf?id=O3EdtXuBal)**
 </div>
 </div>
 
@@ -67,18 +69,19 @@ My research interest includes reinforcement learning, robotics, and vision. I am
 <span class='anchor' id='educations'></span>
 
 # Educations
-- *2020.09 - now*, Undergraduate, Tsinghua University, Beijing. 
-- *2017.09 - 2020.06*, High School Affiliated to Fudan University, Shanghai. 
+- *2024 - present*, PhD in Robotics, School of Computer Science, Carnegie Mellon University. 
+- *2020 - 2024*, Bachelor of Engineering, Institute for Interdisciplinary Information Sciences, Tsinghua University. 
 
-<span class='anchor' id='internships'></span>
+%<span class='anchor' id='internships'></span>
 
-# Internships
-- *2023.02 - now*, ECE UC San Diego, advisor: Xiaolong Wang.
-- *2022.06 - 2023.03*, IIIS Tsinghua University, advisor: Yi Wu.
+%# Internships
+%- *2023.02 - now*, ECE UC San Diego, advisor: Xiaolong Wang.
+%- *2022.06 - 2023.03*, IIIS Tsinghua University, advisor: Yi Wu.
 
-<span class='anchor' id='skills'></span>
+%<span class='anchor' id='skills'></span>
 
-# Skills
-- Language: Chinese (Native), English (Fluent)
-- Programming languages: Python, C++, MATLAB, Verilog
-- Libraries and tools: PyTorch, Tensorflow, Git, LaTeX, Kubernetes, CUDA, Docker
+%# Skills
+%- Language: Chinese (Native), English (Fluent)
+%- Programming languages: Python, C++, MATLAB, Verilog
+%- Libraries and tools: PyTorch, Tensorflow, Git, LaTeX, Kubernetes, CUDA, Docker
+Updated Jul 2024.
