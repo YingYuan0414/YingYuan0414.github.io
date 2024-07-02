@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ying Yuan (袁樱)"
-description              : "Undergrad student in Tsinghua University. Focusing on reinforcement learning and robotics."
+description              : "Incoming PhD student in Carnegie Mellon University. Focusing on robot learning."
 repository               : "YingYuan0414/YingYuan0414.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ying Yuan (袁樱)"
-  avatar           : "images/personal_image.png"
-  bio              : "Computer Science and Technology, IIIS, Tsinghua University"
-  location         : "Beijing, China"
+  avatar           : "images/personal_img_new.jpeg"
+  bio              : "Phd in robotics, School of Computer Science, Carnegie Mellon University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yuanying20@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=2IEoTWwAAAAJ"
+  email            : "yingyua2@andrew.cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/Ying_yyyyyyyy"
   vine             :
   weibo            :
   xing             :
