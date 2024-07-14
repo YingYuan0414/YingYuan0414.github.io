@@ -47,7 +47,7 @@ Previously, I obtained Bachelor of Engineering in Computer Science and Technolog
 
 *NeurIPS 2023 Workshop on Touch Processing.*
 
-**[Paper](https://arxiv.org/pdf/2312.01853.pdf)** \| **[Website](https://yingyuan0414.github.io/visuotactile/)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)** \| **[Twitter](https://x.com/QinYuzhe/status/1732108331869929841)**
+**[Paper](https://arxiv.org/pdf/2312.01853.pdf)** \| **[Website](https://yingyuan0414.github.io/visuotactile/)** \| **[Code](https://github.com/YingYuan0414/in-hand-rotation)** \| **[Video](https://www.youtube.com/watch?v=o0RESLWG8LE)** \| **[Twitter](https://x.com/QinYuzhe/status/1732108331869929841)**
 </div>
 </div>
 
