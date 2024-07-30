@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<title>Ying Yuan's Homepage</title>
+
+	<link href="res/css/bootstrap.min.css" rel="stylesheet">
+
+	<style>
+      .header {
+        width: auto;
+        max-width: auto;
+        font-family: Arial;
+        padding: 2rem 1rem;
+      }
+
+      a:link,a:visited
+      {
+        color: #0071bc;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #208799;
+      }
+
+      hr {
+        border: 10;
+        height: 1px;
+        background-image: linear-gradient(to right, rgba(0, 113, 188, 0.2), rgba(0, 0, 0, 0.1), rgba(0, 113, 188, 0.2));
+      }
+
+      .gap-20 {height:20px;}
+      .gap-10 {height:10px;}
+      .hgap-6perc {width: 6%;}
+      .hgap-7perc {width: 7%;}
+
+      ::selection {
+        background: rgba(220, 220, 220);
+	  }
+
+      .section-div {height: 3em}
+      .content-div {height: 2em}
+      .small-div {height: 0.5em}
+
+	</style>
+	<!-- Bootstrap -->
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="res/js/bootstrap.min.js"></script>
+</head>
+
+<div class="header">
+	<div class="container">
+		<div class="content-div"></div>
+		<div class="row align-items-center">
+			<div class="col-md-3 align-column-center">
+				<center>
+					<img class="img-fluid" src="personal_img_new.jpeg"
+					     style="border-radius:20px; border:1px; margin-bottom: 5px" width=85%" alt="">
+				</center>
+			</div>
+			<div class="col-md-9 align-column-center">
+				<h2> Ying Yuan </h2>
+				Email: yingyua2@andrew.cmu.edu<br>
+				<a href="https://scholar.google.com/citations?user=2IEoTWwAAAAJ" target="_blank"> [Google Scholar] </a>
+				<a href="https://github.com/YingYuan0414" target="_blank"> [GitHub] </a>
+				<a href="https://twitter.com/Ying_yyyyyyyy" target="_blank"> [Twitter] </a>
+
+				<div class="small-div"></div>
+				I am an incoming Robotics PhD student at <a href="https://www.ri.cmu.edu/" target="_blank">CMU Robotics Institute</a>. 
+				I am broadly interested in robot learning, especially RL, imitation learning and their application in robotics. 
+				My goal is to develop algorithms for real-world challenges, such as robust and generalizable robot manipulation.
+				<div class="small-div"></div>
+				Previously, I obtained Bachelor of Engineering in Computer Science and Technology from 
+				<a href="https://iiis.tsinghua.edu.cn/en/yaoclass/" target="_blank">Yao Class</a> at 
+				<a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. 
+				I spent my junior year as a research intern at <a href="https://ucsd.edu/" target="_blank">UC San Diego</a> advised by 
+				<a href="https://xiaolonw.github.io/" target="_blank">Prof. Xiaolong Wang</a>. 
+				I also worked with <a href="https://jxwuyi.weebly.com/" target="_blank">Prof. Yi Wu</a> at 
+				<a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">IIIS, Tsinghua University</a>.
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<h3> News </h3>
+	<div class="small-div"></div>
+	<li>
+		Jun 2024: One paper got accepted by <b>IROS 2024</b>!
+	</li>
+	<li>
+		Jun 2024: I graduated from Tsinghua University as an honored graduate.
+	</li>
+	<li>
+		May 2024: I presented <a href="https://yingyuan0414.github.io/visuotactile/" target="_blank">Robot Synesthesia</a> at ICRA 2024.
+	</li>
+	<li>
+		Jan 2024: One paper got accepted by <b>ICRA 2024</b>! See you in Japan!
+	</li>
+	<li>
+		Sep 2023: I received <a href="https://iiis.tsinghua.edu.cn/en/list-673-1.html" target="_blank">Yao Award</a> (Recognition Prize) from IIIS, Tsinghua University.
+	</li>
+	<div class="content-div"></div>
+</div>
+
+
+<div class="container">
+	<!-- publications come here -->
+	<h3> Papers <font size="3" style="font-weight:normal">(*indicates equal technical contribution)</font></h3>
+
+	<!---- Last Count is Jul 10 ---->
+	<!-- <div style="color:white"> <font size="3"> Code Release Progress: 13 / 17 (76.5%). </font></div> -->
+	<div class="small-div"></div>
+
+	<!------------------------- Arxiv 24 --------------------------------->
+	<div class="row align-items-center">
+		<div class="col-md-3 align-column-center">
+			<center>
+				<video playsinline autoplay loop muted src="res/figs/penspin.mp4" width="100%"
+				       style="border-radius:10px;"></video>
+			</center>
+		</div>
+		<div class="col-md-9">
+			<font size="4"> <b> Lessons from Learning to Spin “Pens” </b></font><br>
+			<font size="3">
+				<a href="https://wang59695487.github.io/" target="_blank">Jun Wang</a>*,
+				<b>Ying Yuan</b>*,
+				<a href="https://www.linkedin.com/in/haichuan-che-7338721b1/" target="_blank">Haichuan Che</a>*,
+				<a href="https://haozhi.io/" target="_blank">Haozhi Qi</a>*,
+				<a href="https://people.eecs.berkeley.edu/~yima/" target="_blank">Yi Ma</a>,
+				<a href="https://people.eecs.berkeley.edu/~malik/" target="_blank">Jitendra Malik</a>,
+				<a href="https://xiaolonw.github.io/" target="_blank">Xiaolong Wang</a>
+			</font>
+			<br>
+			arXiv preprint: 2407.18902, Jul 2024<br>
+			<a href="https://arxiv.org/abs/2407.18902" target="_blank"> [Paper] </a>
+			<a href="https://github.com/HaozhiQi/penspin/" target="_blank"> [Code] </a>
+			<a href="https://penspin.github.io/" target="_blank"> [Website] </a>
+			<a href="https://twitter.com/HaozhiQ/status/1817949548813152763" target="_blank"> [Summary] </a>
+		</div>
+	</div>
+	<div class="content-div"></div>
+
+	<!------------------------- ICRA 24 --------------------------------->
+	<div class="row align-items-center">
+		<div class="col-md-3 align-column-center">
+			<center>
+				<video playsinline autoplay loop muted src="res/figs/icra24.mp4" width="100%"
+				       style="border-radius:10px;"></video>
+			</center>
+		</div>
+		<div class="col-md-9">
+			<font size="4"> <b> Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing </b></font><br>
+			<font size="3">
+				<b>Ying Yuan</b>*,
+				<a href="https://www.linkedin.com/in/haichuan-che-7338721b1/" target="_blank">Haichuan Che</a>*,
+				<a href="https://yzqin.github.io/" target="_blank">Yuzhe Qin</a>*,
+				<a href="https://binghao-huang.github.io/" target="_blank">Binghao Huang</a>,
+				<a href="https://zhaohengyin.github.io/" target="_blank">Zhao-Heng Yin</a>,
+				<a href="http://irobot.dongguk.edu/" target="_blank">Kang-Won Lee</a>,
+				<a href="https://jxwuyi.weebly.com/" target="_blank">Yi Wu</a>,
+				<a href="http://irobot.dongguk.edu/" target="_blank">Soo-Chul Lim</a>,
+				<a href="https://xiaolonw.github.io/" target="_blank">Xiaolong Wang</a>
+			</font>
+			<br>
+			International Conference on Robotics and Automation (ICRA), 2024<br>
+			NeurIPS Workshop on Touch Processing, 2023<br>
+			<a href="https://arxiv.org/abs/2312.01853" target="_blank"> [Paper] </a>
+			<a href="https://github.com/YingYuan0414/in-hand-rotation" target="_blank"> [Code] </a>
+			<a href="https://yingyuan0414.github.io/visuotactile/" target="_blank"> [Website] </a>
+			<a href="https://x.com/QinYuzhe/status/1732108331869929841" target="_blank"> [Summary] </a>
+		</div>
+	</div>
+	<div class="content-div"></div>
+
+	<!------------------------- ICLR 23 Workshop --------------------------------->
+	<div class="row align-items-center">
+		<div class="col-md-3">
+			<img class="img-fluid " src="res/figs/rst.png" style="border:0px solid black" alt="">
+		</div>
+		<div class="col-md-9">
+			<font size="4"> <b> Self-Generating Data for Goal-Conditioned Compositional Problems </b></font><br>
+			<font size="3">
+				<b>Ying Yuan</b>*,
+				<a href="https://irisli17.github.io/" target="_blank">Yunfei Li</a>,
+				<a href="https://jxwuyi.weebly.com/" target="_blank">Yi Wu</a>
+			</font>
+			<br>
+			ICLR Reincarnating RL Workshop, 2023<br>
+			<a href="https://openreview.net/pdf?id=O3EdtXuBal" target="_blank"> [Paper] </a>
+		</div>
+	</div>
+	<div class="content-div"></div>
+
+</div>
+
+<div class="container">
+	<h3> Honors and Awards </h3>
+	<div class="small-div"></div>
+	<li>
+		Yao Award (Recognition Prize), 2023
+	</li>
+	<li>
+		School scholarship on academic performance and social work, 2022
+	</li>
+	<li>
+		Tang Junyuan Scholarship and School-level Scholarship, 2021
+	</li>
+	<div class="content-div"></div>
+</div>
+
+<div class="container">
+	<h3> Education </h3>
+	<div class="small-div"></div>
+	
+	<div class="row align-items-center">
+		<div class="col-md-3">
+			<center>
+				<img class="img-fluid " src="res/figs/cmu.png" width="60%" style="border:0px solid black" alt="">
+			</center>
+		</div>
+		<div class="col-md-7">
+			<font size="4"> <b> PhD in Robotics </b></font><br>
+			<font size="3">
+				School of Computer Science
+			</font>
+			<br><br>
+			Carnegie Mellon University<br>
+		</div>
+		<div class="col-md-2">
+			<font size="3">
+				2024 - present
+			</font>
+		</div>
+	</div>
+
+	<div class="content-div"></div>
+
+	<div class="row align-items-center">
+		<div class="col-md-3">
+			<center>
+				<img class="img-fluid " src="res/figs/thu.png" width="60%" style="border:0px solid black" alt="">
+			</center>
+		</div>
+		<div class="col-md-7">
+			<font size="4"> <b> Bachelor of Engineering </b></font><br>
+			<font size="3">
+				Institute for Interdisciplinary Information Sciences
+			</font>
+			<br><br>
+			Tsinghua University<br>
+		</div>
+		<div class="col-md-2">
+			<font size="3">
+				2020 - 2024
+			</font>
+		</div>
+	</div>
+
+	<div class="content-div"></div>
+</div>
+
+<div class="container">
+	<div class="small-div"></div>
+	<center>Updated Jul 2024. Template source from <a href="https://github.com/HaozhiQi/haozhiqi.github.io" target="_blank">here</a>. </center>
+	<div class="content-div"></div>
+</div>
+
+
+</html>
